@@ -29,7 +29,7 @@ The .gitignore will ignore all .png productions excepted those in the rc/ file.
 I thank all of my colleagues from the master CSA for their constructive criticsm and ideas.
 
 <p align="center">
-<img src="./logo4.svg">
+<img src="./logo4.png">
 </p>
 
 
