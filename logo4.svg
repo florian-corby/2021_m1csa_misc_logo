@@ -28,9 +28,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.94556344"
-     inkscape:cx="136.95538"
-     inkscape:cy="302.46516"
+     inkscape:zoom="0.6686143"
+     inkscape:cx="-148.81524"
+     inkscape:cy="305.10864"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="0"
@@ -210,17 +210,17 @@
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,4.3786204,0.35434944)"
+       transform="matrix(0.26458333,0,0,0.26458333,5.7218901,0.35434944)"
        id="text3020"
        style="font-style:normal;font-weight:normal;font-size:120px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3022);fill:#000000;fill-opacity:1;stroke:none"
        inkscape:export-filename="/home/chuxclub/projects/wip/2021_m1csa_misc_logo/logo3.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          x="236.96094"
-         y="599.01711"
-         id="tspan1010"><tspan
+         y="602.70898"
+         id="tspan33579"><tspan
            style="font-size:106.667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#ffffff"
-           id="tspan1008">CSA</tspan></tspan></text>
+           id="tspan33577">CSA</tspan></tspan></text>
     <g
        id="g5733"
        transform="matrix(0.93425899,0,0,0.91978996,33.384356,68.17133)"
@@ -484,16 +484,14 @@
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:9.55344px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        id="text6279"
        transform="matrix(0.99287121,0.0488022,-0.0485121,0.99880846,5.3083649,-1.6951011)"
        inkscape:export-filename="/home/chuxclub/projects/wip/2021_m1csa_misc_logo/logo3.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><textPath
          xlink:href="#path10675"
-         id="textPath11262"><tspan
-           id="tspan6277"
-           style="fill:#ffffff;stroke-width:0.264583">Computer Science for Aerospacee</tspan></textPath></text>
+         id="textPath11262">Computer Science for Aerospace</textPath></text>
     <path
        style="fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 46.033018,132.14288 c 0,0 2.469815,-18.09042 9.42112,-25.78802 8.247121,-9.132555 17.814302,-18.112515 29.652364,-21.470888 10.20395,-2.894787 21.158318,-2.688187 31.181908,0.37169 7.71812,2.356093 19.65696,9.040147 25.23216,14.874328 3.90449,4.08586 11.42163,19.67779 12.26775,26.37917"
@@ -549,15 +547,15 @@
     <text
        xml:space="preserve"
        id="text58157"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.99511639,-0.00691801,0.00687132,1.0018791,-0.13521365,-1.458838)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.53916px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.99478508,0.02659163,-0.026866,1.0015424,4.4059646,-5.0823895)"
        inkscape:export-filename="/home/chuxclub/projects/wip/2021_m1csa_misc_logo/logo3.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><textPath
          xlink:href="#path51596"
          id="textPath62147"><tspan
            id="tspan58161"
-           style="fill:#ffffff">University of Toulouse III</tspan></textPath></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.53916px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">University of Toulouse III</tspan></textPath></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 59.698046,171.22473 c 0,0 3.576831,-2.15103 8.25626,-3.73937 4.629457,-1.57137 9.669911,-2.63192 14.369822,-3.19788 5.555389,-0.66898 10.057533,-0.91543 15.534123,-0.89756 4.159259,0.0136 8.111969,0.23 12.253429,0.61464 4.0856,0.37945 7.48112,0.93892 11.45805,1.81716 4.31318,0.95249 6.66972,1.74552 9.48228,2.77907 2.83266,1.04094 5.02094,2.18649 5.02094,2.18649"
@@ -568,7 +566,10 @@
        inkscape:export-ydpi="96" />
     <g
        id="g2312"
-       transform="matrix(0.01880055,0,0,0.01880055,151.38856,134.63182)">
+       transform="matrix(0.01880055,0,0,0.01880055,151.38856,134.63182)"
+       inkscape:export-filename="/home/chuxclub/projects/wip/2021_m1csa_misc_logo/logo3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g2249">
         <g
